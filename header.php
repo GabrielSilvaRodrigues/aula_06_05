@@ -16,6 +16,7 @@
                 <li><a href="internal.php">Internal</a></li>
                 <li><a href="medidas_absolutas.php">Medidas Absolutas</a></li>
                 <li><a href="medidas_relativas.php">Medidas Relativas</a></li>
+                <li><a href="seletores.php">Seletores</a></li>
             </ul>
         </nav>
     </header>
