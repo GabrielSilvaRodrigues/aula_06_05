@@ -1,7 +1,4 @@
-<?php
-include 'header.php'
-?>
-
+<?php include 'header.php'; ?>
 <div>
     <div id="souID">
         <h1>Sou exemplo com ID</h1>
@@ -13,7 +10,4 @@ include 'header.php'
         <h1>Sou um exemplo com class</h1>
     </div>
 </div>
-
-<?php
-include 'footer.php'
-?>
+<?php include 'footer.php'; ?>
