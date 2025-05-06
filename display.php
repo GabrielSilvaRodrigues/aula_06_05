@@ -10,10 +10,13 @@
         <h2 class="inline-element">Sou un elemento em linha</h2>
     </div>
     <div>
-        <h2 class="inline-block-element">Sou un elemento em linha e bloco</h2>
-        <h2 class="inline-block-element">Sou un elemento em linha e bloco</h2>
-        <h2 class="inline-block-element">Sou un elemento em linha e bloco</h2>
-        <h2 class="inline-block-element">Sou un elemento em linha e bloco</h2>
+        <spam class="inline-block-element">Sou un elemento em linha e bloco</spam>
+        <spam class="inline-block-element">Sou un elemento em linha e bloco</spam>
+        <spam class="inline-block-element">Sou un elemento em linha e bloco</spam>
+        <spam class="inline-block-element">Sou un elemento em linha e bloco</spam>
+    </div>
+    <div>
+        <h2 class="none-element">Sou un elemento oculto</h2>
     </div>
 </div>
 

@@ -18,6 +18,7 @@
                 <li><a href="medidas_relativas.php">Medidas Relativas</a></li>
                 <li><a href="seletores.php">Seletores</a></li>
                 <li><a href="areas.php">Areas</a></li>
+                <li><a href="display.php">Display</a></li>
             </ul>
         </nav>
     </header>

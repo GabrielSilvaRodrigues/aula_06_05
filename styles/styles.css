@@ -114,3 +114,15 @@ p{
     padding-right: 20px;
     padding-bottom: 20px;
 }
+.block-element{
+    display: block; 
+}
+.inline-element{
+    display: inline; 
+}
+.inline-block-element{
+    display: inline-block; 
+}
+.none-element{
+    display: none; 
+}
