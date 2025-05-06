@@ -73,3 +73,13 @@ p{
     font-size: 35rem;
     /* margin-bottom: 20px; mudar margem inferior do elemento */
 }
+#souID{
+    background-color: lightblue;
+    width: 200px;
+    border: 1px solid;
+}
+.souClass{
+    background-color: aquamarine;
+    width: 300px;
+    border: 1px solid;
+}
