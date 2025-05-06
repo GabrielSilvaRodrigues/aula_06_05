@@ -1,0 +1,75 @@
+p{
+    color: brown; /* mudar cor da fonte */
+    font-size: 24px; /* mudar tamanho da fonte sass */
+
+}
+*{
+    margin: 0; /* mudar margem do elemento */
+    padding: 0; /* mudar preenchimento do elemento */
+    box-sizing: border-box; /* mudar o modelo de caixa do elemento */
+    font-size: 12px; /* mudar tamanho da fonte */
+    font-family: Arial, Helvetica, sans-serif; /* mudar tipo da fonte */
+}
+.caixa{
+    width: 100%; /* mudar largura do elemento */
+    height: auto; /* mudar altura do elemento */
+    background-color: white; /* mudar cor de fundo do elemento */
+    margin-bottom: auto; /* mudar margem inferior do elemento */
+    /* width: 50vw; você pode usar vw para definir a largura em relação à largura da janela de visualização */
+}
+.caixa_px{
+    width: 200px; /* mudar largura do elemento */
+    height: 100px; /* mudar altura do elemento */
+    background-color: lightblue; /* mudar cor de fundo do elemento */
+    margin-bottom: 20px; /* mudar margem inferior do elemento */
+}
+.caixa_cm{
+    width: 10cm; /* mudar largura do elemento */
+    height: 5cm; /* mudar altura do elemento */
+    background-color: lightcoral; /* mudar cor de fundo do elemento */
+    margin-bottom: 20px; /* mudar margem inferior do elemento */
+}
+.caixa_mm{
+    width: 50mm; /* mudar largura do elemento */
+    height: 30mm; /* mudar altura do elemento */
+    background-color: lightcyan; /* mudar cor de fundo do elemento */
+    margin-bottom: 20px; /* mudar margem inferior do elemento */
+}
+.caixa_in{
+    width: 2in; /* mudar largura do elemento */
+    height: 1in; /* mudar altura do elemento */
+    background-color: lightgoldenrodyellow; /* mudar cor de fundo do elemento */
+    margin-bottom: 20px; /* mudar margem inferior do elemento */
+}
+.container{
+    width: 50%; 
+    height: 200px;
+    background-color: brown;
+
+}
+#caixa_porcentagem{
+    width: 50%; /* mudar largura do elemento */
+    height: 75%; /* mudar altura do elemento */
+    background-color: antiquewhite; /* mudar cor de fundo do elemento */
+    /* margin-bottom: 20px; mudar margem inferior do elemento */
+}
+#caixa_vw{
+    width: 75vw; /* mudar largura do elemento */
+    height: 200px; /* mudar altura do elemento */
+    background-color: aquamarine; /* mudar cor de fundo do elemento */
+    /* margin-bottom: 20px; mudar margem inferior do elemento */
+}
+#caixa_vh{
+    width: 200px; /* mudar largura do elemento */
+    height: 50vh; /* mudar altura do elemento */
+    background-color: lightseagreen; /* mudar cor de fundo do elemento */
+    /* margin-bottom: 20px; mudar margem inferior do elemento */
+}
+
+#caixa_rem{
+    width: 10rem; /* mudar largura do elemento */
+    height: 5rem; /* mudar altura do elemento */
+    background-color: lightpink; /* mudar cor de fundo do elemento */
+    font-size: 35rem;
+    /* margin-bottom: 20px; mudar margem inferior do elemento */
+}
